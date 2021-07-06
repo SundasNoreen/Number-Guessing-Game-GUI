@@ -1,4 +1,4 @@
-# NumberGuess
+# Number Guessing Game
 
 Description:
 It is a simple Game to be played by kids.
